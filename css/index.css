@@ -20,6 +20,12 @@ a:visited { color: black; text-decoration: none; }
 
 .TuskLogo{position: absolute; top: 484px; left: 1000px;}
 
+.HausLogo{position: absolute; top: 540px; left: 998px;}
+
+.SnapLogo{position: absolute; top: 565px; left: 1000px;}
+
+.SoundLogo{position: absolute; top: 480px; left: 1000px;}
+
 .CaseName{position: absolute; top: 675px; left: 1000px; font-family: 'Anonymous Pro', monospace; line-height: 160%; color: black; font-size: 15px}
 
 .Detail{position: absolute; top: 740px; left: 1000px; font-family: 'Anonymous Pro', monospace; line-height: 160%; color: black; font-size: 15px}
